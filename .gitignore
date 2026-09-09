@@ -1,0 +1,17 @@
+# macOS
+.DS_Store
+
+# Temporary Microsoft Office files
+~$*
+
+# Stata temporary/output files
+*.log
+*.smcl
+
+# Project data/output folders
+data_raw/
+data_clean/
+Output/
+
+# Stata datasets
+*.dta
